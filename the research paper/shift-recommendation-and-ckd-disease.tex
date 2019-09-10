@@ -1,0 +1,44 @@
+\documentclass[10pt, a4paper,  margin=1in, twocolumn]{article}
+\hyphenpenalty=10000
+\exhyphenpenalty=10000
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage{longtable}
+\usepackage{hyperref}
+%\usepackage{blindtext}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
+\geometry{a4paper, portrait, margin=1in}
+\graphicspath{ {./images/} }
+\renewcommand{\baselinestretch}{1.5}
+
+\begin{document}
+\newcommand{\specialcell}[2][c]{%
+\begin{tabular}[#1]{@{}l@{}}#2\end{tabular}}
+%\pagestyle{plain}
+\input{front-page}
+%\include{declaration-author}
+\input{abstract}
+%\include{acknowledgements}
+%\tableofcontents
+%\pagebreak
+%\listoffigures
+%\pagebreak
+%\listoftables
+%\pagebreak
+\input{introduction}
+\input{literature}
+%\input{exploratory-study}
+\input{methodology}
+%\input{experiment-and-outcome}
+\input{results-with-reference}
+\input{conclusions}
+%\input{appendix}
+%\input{references}
+
+\end{document}
