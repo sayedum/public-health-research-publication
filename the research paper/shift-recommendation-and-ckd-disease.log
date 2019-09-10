@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  10 SEP 2019 12:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  10 SEP 2019 19:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -208,7 +208,7 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 14.
 LaTeX Warning: Unused global option(s):
     [margin=1in].
 
-(./shift-recommendation-and-ckd-disease.aux)
+No file shift-recommendation-and-ckd-disease.aux.
 \openout1 = `shift-recommendation-and-ckd-disease.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
@@ -225,7 +225,6 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
-
 (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count106
@@ -319,178 +318,189 @@ LaTeX Info: Redefining \nameref on input line 19.
 \openout3 = `shift-recommendation-and-ckd-disease.out'.
 
  (./front-page.tex) (./abstract.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
+Underfull \hbox (badness 10000) in paragraph at lines 1--2
 \OT1/cmr/m/n/10 Chronic Kid-ney Dis-ease (CKD) lead-ing to
  []
 
 
-Underfull \hbox (badness 1584) in paragraph at lines 3--4
+Underfull \hbox (badness 1584) in paragraph at lines 1--2
 \OT1/cmr/m/n/10 CKD/ESRD and in-ter-re-lated dis-eases cause a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-\OT1/cmr/m/n/10 study has un-cov-ered sig-nif-i-cant cor-re-la-tions
+Underfull \hbox (badness 5119) in paragraph at lines 1--2
+\OT1/cmr/m/n/10 re-cent di-etary rec-om-men-da-tions shift is not
  []
 
 
-Underfull \hbox (badness 1092) in paragraph at lines 3--4
-\OT1/cmr/m/n/10 well as iden-ti-fied di-ag-nos-tic mark-ers for CKD
+Underfull \hbox (badness 2197) in paragraph at lines 1--2
+\OT1/cmr/m/n/10 This re-search study has un-cov-ered sig-nif-i-cant
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-\OT1/cmr/m/n/10 showed pos-i-tive cor-re-la-tions with Mor-tal-ity
+Underfull \hbox (badness 2970) in paragraph at lines 1--2
+\OT1/cmr/m/n/10 mor-tal-ity, also be-tween di-etary pat-terns and
  []
 
 
-Underfull \hbox (badness 2608) in paragraph at lines 3--4
-\OT1/cmr/m/n/10 cor-re-lated with di-etary pat-terns. For ACR
+Underfull \hbox (badness 1297) in paragraph at lines 1--2
+\OT1/cmr/m/n/10 showed neg-a-tive cor-re-la-tions where Veg-eta-bles,
+ []
+
+
+Underfull \hbox (badness 2005) in paragraph at lines 1--2
+\OT1/cmr/m/n/10 Other Veg-eta-bles showed pos-i-tive cor-re-la-tions.
  []
 
 ) (./introduction.tex
-Underfull \hbox (badness 6268) in paragraph at lines 2--3
+Underfull \hbox (badness 6268) in paragraph at lines 3--4
 \OT1/cmr/m/n/10 in-creas-ing whereby 10 to 13% of the US
  []
 
 
-Underfull \hbox (badness 2564) in paragraph at lines 6--7
+Underfull \hbox (badness 2564) in paragraph at lines 7--8
 \OT1/cmr/m/n/10 Primary causes of CKD in-clude High Blood
  []
 
 
-Underfull \hbox (badness 7777) in paragraph at lines 6--7
+Underfull \hbox (badness 7777) in paragraph at lines 7--8
 \OT1/cmr/m/n/10 in-fec-tion, kid-ney stones, ge-net-ics, ge-net-i-cal
  []
 
 
-Underfull \hbox (badness 1975) in paragraph at lines 6--7
+Underfull \hbox (badness 1975) in paragraph at lines 7--8
 \OT1/cmr/m/n/10 di-a-betes and blood pres-sure with or with-out
  []
 
 
-Underfull \hbox (badness 2790) in paragraph at lines 6--7
+Underfull \hbox (badness 2790) in paragraph at lines 7--8
 \OT1/cmr/m/n/10 and our diet pro-duces those waste prod-ucts
  []
 
 [1
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 3260) in paragraph at lines 8--8
+Underfull \hbox (badness 1117) in paragraph at lines 9--10
+[]\OT1/cmr/m/n/10 As Di-etary rec-om-men-da-tions are dif-fi-cult to
+ []
+
+
+Underfull \hbox (badness 3260) in paragraph at lines 11--11
 []\OT1/cmr/bx/n/12 How CKD is Iden-ti-fied and
  []
 
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 9.
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 12.
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 9.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 12.
 )
 (./literature.tex
-Underfull \hbox (badness 2698) in paragraph at lines 10--12
+Underfull \hbox (badness 2698) in paragraph at lines 10--11
 \OT1/cmr/m/n/10 and Mex-i-can foods, pizza, and other mixed
  []
 
 
-Underfull \hbox (badness 2460) in paragraph at lines 10--12
+Underfull \hbox (badness 2460) in paragraph at lines 10--11
 \OT1/cmr/m/n/10 dishes), "plant-based" (fruits and veg-eta-bles),
  []
 
-
-Underfull \hbox (badness 1888) in paragraph at lines 14--15
+[2]
+Underfull \hbox (badness 1888) in paragraph at lines 13--14
 \OT1/cmr/m/n/10 diet can pre-serve kid-ney func-tion along with
  []
 
 
-Underfull \hbox (badness 3281) in paragraph at lines 14--15
+Underfull \hbox (badness 3281) in paragraph at lines 13--14
 \OT1/cmr/m/n/10 diet has a lower like-li-hood of hav-ing CKD
  []
 
 
-Underfull \hbox (badness 1521) in paragraph at lines 14--15
+Underfull \hbox (badness 1521) in paragraph at lines 13--14
 \OT1/cmr/m/n/10 in el-derly men. The study also found that
  []
 
 
-Underfull \hbox (badness 1337) in paragraph at lines 14--15
+Underfull \hbox (badness 1337) in paragraph at lines 13--14
 \OT1/cmr/m/n/10 a greater ad-her-ence to this diet can im-prove
  []
 
 
-Underfull \hbox (badness 1337) in paragraph at lines 14--15
+Underfull \hbox (badness 1337) in paragraph at lines 13--14
 \OT1/cmr/m/n/10 sur-vival for CKD pa-tients [5]. Huang et al
  []
 
 
-Underfull \hbox (badness 1052) in paragraph at lines 14--15
+Underfull \hbox (badness 1052) in paragraph at lines 13--14
 \OT1/cmr/m/n/10 [5] in the above study, used un-paired t test,
  []
 
 
-Underfull \hbox (badness 2245) in paragraph at lines 14--15
+Underfull \hbox (badness 2245) in paragraph at lines 13--14
 \OT1/cmr/m/n/10 BMI, Diet, Blood Pres-sure, Choles-terol, and
  []
 
 
-Underfull \hbox (badness 1810) in paragraph at lines 14--15
+Underfull \hbox (badness 1810) in paragraph at lines 13--14
 \OT1/cmr/m/n/10 haz-ards mod-els. Ad-just-ment were made for
  []
 
-[2]
-Underfull \hbox (badness 1661) in paragraph at lines 18--19
+
+Underfull \hbox (badness 1661) in paragraph at lines 17--18
 \OT1/cmr/m/n/10 pa-tients when in ad-di-tion to por-tion con-trol,
  []
 
 
-Underfull \hbox (badness 1082) in paragraph at lines 21--22
+Underfull \hbox (badness 1082) in paragraph at lines 20--21
 \OT1/cmr/m/n/10 the de-gree of ad-her-ence to a healthy lifestyle
  []
 
 
-Underfull \hbox (badness 3128) in paragraph at lines 21--22
+Underfull \hbox (badness 3128) in paragraph at lines 20--21
 \OT1/cmr/m/n/10 (CKD). The study found that ad-her-ence to
  []
 
 
-Underfull \hbox (badness 2368) in paragraph at lines 21--22
+Underfull \hbox (badness 2368) in paragraph at lines 20--21
 \OT1/cmr/m/n/10 a healthy lifestyle was as-so-ci-ated with lower
  []
 
 
-Underfull \hbox (badness 1092) in paragraph at lines 21--22
+Underfull \hbox (badness 1092) in paragraph at lines 20--21
 \OT1/cmr/m/n/10 all-cause mor-tal-ity risk in CKD. The great-est
  []
 
 
-Underfull \hbox (badness 1033) in paragraph at lines 21--22
+Underfull \hbox (badness 1033) in paragraph at lines 20--21
 \OT1/cmr/m/n/10 haz-ards mod-els were fit-ted and were ad-justed
  []
 
 [3]) (./methodology.tex
-Underfull \hbox (badness 1968) in paragraph at lines 24--1
+Underfull \hbox (badness 1968) in paragraph at lines 23--1
 \OT1/cmr/m/n/10 mod-els es-pe-cially Cox re-gres-sion mod-els were
  []
 
 
-Underfull \hbox (badness 4084) in paragraph at lines 24--1
+Underfull \hbox (badness 4084) in paragraph at lines 23--1
 \OT1/cmr/m/n/10 uti-lized pub-lic datasets from CDC, US-RDS,
  []
 
 
-Underfull \hbox (badness 3354) in paragraph at lines 24--1
+Underfull \hbox (badness 3354) in paragraph at lines 23--1
 \OT1/cmr/m/n/10 Health.gov. For as-so-ci-a-tion and pre-dic-tion,
  []
 
 
-Underfull \hbox (badness 2027) in paragraph at lines 24--1
+Underfull \hbox (badness 2027) in paragraph at lines 23--1
 \OT1/cmr/m/n/10 ap-proaches are used. The ma-chine learn-ing
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: Reference `methodology-new' on page 4 undefined on input line 2.
 
-<./images/methodologies-enhanced.png, id=71, 472.01344pt x 575.90157pt>
+
+<./images/methodologies-enhanced.png, id=70, 472.01344pt x 575.90157pt>
 File: ./images/methodologies-enhanced.png Graphic file (type png)
 <use ./images/methodologies-enhanced.png>
 Package pdftex.def Info: ./images/methodologies-enhanced.png  used on input lin
@@ -607,7 +617,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 10.
-<./images/sorted_standard_grain_ratio_negative.png, id=81, 361.35pt x 361.35pt>
+<./images/sorted_standard_grain_ratio_negative.png, id=80, 361.35pt x 361.35pt>
 
 File: ./images/sorted_standard_grain_ratio_negative.png Graphic file (type png)
 
@@ -615,18 +625,18 @@ File: ./images/sorted_standard_grain_ratio_negative.png Graphic file (type png)
 Package pdftex.def Info: ./images/sorted_standard_grain_ratio_negative.png  use
 d on input line 11.
 (pdftex.def)             Requested size: 90.33728pt x 90.33728pt.
-<./images/grain_later.png, id=83, 320.69812pt x 309.40594pt>
+<./images/grain_later.png, id=82, 320.69812pt x 309.40594pt>
 File: ./images/grain_later.png Graphic file (type png)
 <use ./images/grain_later.png>
 Package pdftex.def Info: ./images/grain_later.png  used on input line 11.
 (pdftex.def)             Requested size: 80.17433pt x 77.35129pt.
-<./images/pair_plot_fruits_ratio.png, id=84, 253.69781pt x 249.93375pt>
+<./images/pair_plot_fruits_ratio.png, id=83, 253.69781pt x 249.93375pt>
 File: ./images/pair_plot_fruits_ratio.png Graphic file (type png)
 <use ./images/pair_plot_fruits_ratio.png>
 Package pdftex.def Info: ./images/pair_plot_fruits_ratio.png  used on input lin
 e 17.
 (pdftex.def)             Requested size: 76.10992pt x 74.9807pt.
-<./images/standard_fruit_ratio_mortality.png, id=85, 361.35pt x 361.35pt>
+<./images/standard_fruit_ratio_mortality.png, id=84, 361.35pt x 361.35pt>
 File: ./images/standard_fruit_ratio_mortality.png Graphic file (type png)
 <use ./images/standard_fruit_ratio_mortality.png>
 Package pdftex.def Info: ./images/standard_fruit_ratio_mortality.png  used on i
@@ -647,13 +657,13 @@ Underfull \hbox (badness 1590) in paragraph at lines 7--23
 \OT1/cmr/m/n/10 and Re-gres-sion show that Grains (-0.84) and
  []
 
-<./images/standard_vegetable_ratio.png, id=86, 361.35pt x 361.35pt>
+<./images/standard_vegetable_ratio.png, id=85, 361.35pt x 361.35pt>
 File: ./images/standard_vegetable_ratio.png Graphic file (type png)
 <use ./images/standard_vegetable_ratio.png>
 Package pdftex.def Info: ./images/standard_vegetable_ratio.png  used on input l
 ine 27.
 (pdftex.def)             Requested size: 90.33728pt x 90.33728pt.
-<./images/standard_actual_vegetable_intake_esrd_mortality.png, id=87, 361.35pt 
+<./images/standard_actual_vegetable_intake_esrd_mortality.png, id=86, 361.35pt 
 x 361.35pt>
 File: ./images/standard_actual_vegetable_intake_esrd_mortality.png Graphic file
  (type png)
@@ -661,7 +671,7 @@ File: ./images/standard_actual_vegetable_intake_esrd_mortality.png Graphic file
 Package pdftex.def Info: ./images/standard_actual_vegetable_intake_esrd_mortali
 ty.png  used on input line 28.
 (pdftex.def)             Requested size: 90.33728pt x 90.33728pt.
-<./images/pairplot_vegetable_.png, id=88, 280.04625pt x 279.29344pt>
+<./images/pairplot_vegetable_.png, id=87, 280.04625pt x 279.29344pt>
 File: ./images/pairplot_vegetable_.png Graphic file (type png)
 <use ./images/pairplot_vegetable_.png>
 Package pdftex.def Info: ./images/pairplot_vegetable_.png  used on input line 2
@@ -753,7 +763,7 @@ Underfull \hbox (badness 2941) in paragraph at lines 40--41
 
 Underfull \vbox (badness 3439) has occurred while \output is active []
 
-<./images/standard_actual_starchy_vegetable_esrd_mortality.png, id=101, 361.35p
+<./images/standard_actual_starchy_vegetable_esrd_mortality.png, id=100, 361.35p
 t x 361.35pt>
 File: ./images/standard_actual_starchy_vegetable_esrd_mortality.png Graphic fil
 e (type png)
@@ -761,7 +771,7 @@ e (type png)
 Package pdftex.def Info: ./images/standard_actual_starchy_vegetable_esrd_mortal
 ity.png  used on input line 45.
 (pdftex.def)             Requested size: 90.33728pt x 90.33728pt.
-<./images/standard_actual_red_and_orange_vegetable_esrd_mortality.png, id=102, 
+<./images/standard_actual_red_and_orange_vegetable_esrd_mortality.png, id=101, 
 361.35pt x 361.35pt>
 File: ./images/standard_actual_red_and_orange_vegetable_esrd_mortality.png Grap
 hic file (type png)
@@ -769,7 +779,7 @@ hic file (type png)
 Package pdftex.def Info: ./images/standard_actual_red_and_orange_vegetable_esrd
 _mortality.png  used on input line 46.
 (pdftex.def)             Requested size: 90.33728pt x 90.33728pt.
-<./images/standard_actual_other_vegetable_esrd_mortality.png, id=103, 361.35pt 
+<./images/standard_actual_other_vegetable_esrd_mortality.png, id=102, 361.35pt 
 x 361.35pt>
 File: ./images/standard_actual_other_vegetable_esrd_mortality.png Graphic file 
 (type png)
@@ -782,7 +792,7 @@ Overfull \hbox (5.0963pt too wide) in paragraph at lines 44--50
  [][] 
  []
 
-<./images/negatively_subgroup_avg_alcohol_intake.png, id=104, 361.35pt x 361.35
+<./images/negatively_subgroup_avg_alcohol_intake.png, id=103, 361.35pt x 361.35
 pt>
 File: ./images/negatively_subgroup_avg_alcohol_intake.png Graphic file (type pn
 g)
@@ -790,7 +800,7 @@ g)
 Package pdftex.def Info: ./images/negatively_subgroup_avg_alcohol_intake.png  u
 sed on input line 52.
 (pdftex.def)             Requested size: 90.33728pt x 90.33728pt.
-<./images/negatively_added_sugar_subgroup_line_2.png, id=105, 361.35pt x 361.35
+<./images/negatively_added_sugar_subgroup_line_2.png, id=104, 361.35pt x 361.35
 pt>
 File: ./images/negatively_added_sugar_subgroup_line_2.png Graphic file (type pn
 g)
@@ -798,26 +808,26 @@ g)
 Package pdftex.def Info: ./images/negatively_added_sugar_subgroup_line_2.png  u
 sed on input line 53.
 (pdftex.def)             Requested size: 90.33728pt x 90.33728pt.
-<./images/negatively_avg_nuts_subgroup_line_3.png, id=106, 361.35pt x 361.35pt>
+<./images/negatively_avg_nuts_subgroup_line_3.png, id=105, 361.35pt x 361.35pt>
 
 File: ./images/negatively_avg_nuts_subgroup_line_3.png Graphic file (type png)
 <use ./images/negatively_avg_nuts_subgroup_line_3.png>
 Package pdftex.def Info: ./images/negatively_avg_nuts_subgroup_line_3.png  used
  on input line 55.
 (pdftex.def)             Requested size: 90.33728pt x 90.33728pt.
-<./images/pairplot_avg_alc.png, id=107, 284.56313pt x 283.0575pt>
+<./images/pairplot_avg_alc.png, id=106, 284.56313pt x 283.0575pt>
 File: ./images/pairplot_avg_alc.png Graphic file (type png)
 <use ./images/pairplot_avg_alc.png>
 Package pdftex.def Info: ./images/pairplot_avg_alc.png  used on input line 56.
 (pdftex.def)             Requested size: 71.1406pt x 70.76419pt.
-<./images/pairplot_raw_data_added_sugar_esrd.png, id=108, 322.95656pt x 321.450
+<./images/pairplot_raw_data_added_sugar_esrd.png, id=107, 322.95656pt x 321.450
 94pt>
 File: ./images/pairplot_raw_data_added_sugar_esrd.png Graphic file (type png)
 <use ./images/pairplot_raw_data_added_sugar_esrd.png>
 Package pdftex.def Info: ./images/pairplot_raw_data_added_sugar_esrd.png  used 
 on input line 58.
 (pdftex.def)             Requested size: 80.73894pt x 80.36253pt.
-<./images/pairplot_nuts_avg_negative.png, id=109, 282.30469pt x 275.52937pt>
+<./images/pairplot_nuts_avg_negative.png, id=108, 282.30469pt x 275.52937pt>
 File: ./images/pairplot_nuts_avg_negative.png Graphic file (type png)
 <use ./images/pairplot_nuts_avg_negative.png>
 Package pdftex.def Info: ./images/pairplot_nuts_avg_negative.png  used on input
@@ -839,6 +849,9 @@ Underfull \hbox (badness 1776) in paragraph at lines 72--73
  []
 
 [7]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 Underfull \hbox (badness 1067) in paragraph at lines 74--75
 \OT1/cmr/m/n/10 Veg-eta-bles, Avg en-ergy kcal, avg pro-tein gm,
  []
@@ -864,14 +877,17 @@ Underfull \hbox (badness 6364) in paragraph at lines 74--75
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 76--76
 \OT1/cmr/bx/n/12 to Cre-a-ti-nine Ra-tio (ACR)
  []
 
-) (./relation-with-shift-recommendation.tex
+) (./relation-with-shift-recommendation.tex [8 <./images/standard_actual_starch
+y_vegetable_esrd_mortality.png> <./images/standard_actual_red_and_orange_vegeta
+ble_esrd_mortality.png> <./images/standard_actual_other_vegetable_esrd_mortalit
+y.png> <./images/negatively_subgroup_avg_alcohol_intake.png> <./images/negative
+ly_added_sugar_subgroup_line_2.png> <./images/negatively_avg_nuts_subgroup_line
+_3.png> <./images/pairplot_avg_alc.png> <./images/pairplot_raw_data_added_sugar
+_esrd.png> <./images/pairplot_nuts_avg_negative.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 1--1
 []\OT1/cmr/bx/n/12 Relation with Shift
  []
@@ -887,15 +903,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--4
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [8 <./images/standard_actual_starchy_vegetable_esrd_mortality.png> <./images/s
-tandard_actual_red_and_orange_vegetable_esrd_mortality.png> <./images/standard_
-actual_other_vegetable_esrd_mortality.png> <./images/negatively_subgroup_avg_al
-cohol_intake.png> <./images/negatively_added_sugar_subgroup_line_2.png> <./imag
-es/negatively_avg_nuts_subgroup_line_3.png> <./images/pairplot_avg_alc.png> <./
-images/pairplot_raw_data_added_sugar_esrd.png> <./images/pairplot_nuts_avg_nega
-tive.png>]
 Underfull \hbox (badness 1824) in paragraph at lines 5--6
 \OT1/cmr/m/n/10 cor-re-la-tions with mor-tal-ity for CKD pa-tients.
  []
@@ -966,29 +973,43 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 44.
  (./shift-recommendation-and-ckd-disease.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 44.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 44.
-Package rerunfilecheck Info: File `shift-recommendation-and-ckd-disease.out' ha
-s not changed.
-(rerunfilecheck)             Checksum: 4286D388C26F3D538155C85967BB7A27;823.
+
+
+Package rerunfilecheck Warning: File `shift-recommendation-and-ckd-disease.out'
+ has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `shift-recommendation-and-ckd-diseas
+e.out':
+(rerunfilecheck)             Before: 4286D388C26F3D538155C85967BB7A27;823
+(rerunfilecheck)             After:  EFDB4C154BC0710C25A0FBE71B88EB49;902.
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 44.
  ) 
 Here is how much of TeX's memory you used:
- 5748 strings out of 492616
- 88753 string characters out of 6129482
- 186994 words of memory out of 5000000
+ 5746 strings out of 492616
+ 88675 string characters out of 6129482
+ 187841 words of memory out of 5000000
  9567 multiletter control sequences out of 15000+600000
  6981 words of font info for 25 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,20n,29p,1841b,401s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,20n,29p,1745b,401s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
 /usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
 sr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on shift-recommendation-and-ckd-disease.pdf (10 pages, 451393 by
+Output written on shift-recommendation-and-ckd-disease.pdf (10 pages, 452199 by
 tes).
 PDF statistics:
- 165 PDF objects out of 1000 (max. 8388607)
- 115 compressed objects within 2 object streams
+ 164 PDF objects out of 1000 (max. 8388607)
+ 114 compressed objects within 2 object streams
  29 named destinations out of 1000 (max. 500000)
  182 words of extra memory for PDF output out of 10000 (max. 10000000)
 
