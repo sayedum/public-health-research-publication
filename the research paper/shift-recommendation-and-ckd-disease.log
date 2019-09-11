@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  10 SEP 2019 19:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  10 SEP 2019 20:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -208,7 +208,7 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 14.
 LaTeX Warning: Unused global option(s):
     [margin=1in].
 
-No file shift-recommendation-and-ckd-disease.aux.
+(./shift-recommendation-and-ckd-disease.aux)
 \openout1 = `shift-recommendation-and-ckd-disease.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
@@ -225,6 +225,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
+
 (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count106
@@ -496,11 +497,7 @@ Underfull \hbox (badness 2027) in paragraph at lines 23--1
 \OT1/cmr/m/n/10 ap-proaches are used. The ma-chine learn-ing
  []
 
-
-LaTeX Warning: Reference `methodology-new' on page 4 undefined on input line 2.
-
-
-<./images/methodologies-enhanced.png, id=70, 472.01344pt x 575.90157pt>
+<./images/methodologies-enhanced.png, id=74, 472.01344pt x 575.90157pt>
 File: ./images/methodologies-enhanced.png Graphic file (type png)
 <use ./images/methodologies-enhanced.png>
 Package pdftex.def Info: ./images/methodologies-enhanced.png  used on input lin
@@ -617,7 +614,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 10.
-<./images/sorted_standard_grain_ratio_negative.png, id=80, 361.35pt x 361.35pt>
+<./images/sorted_standard_grain_ratio_negative.png, id=84, 361.35pt x 361.35pt>
 
 File: ./images/sorted_standard_grain_ratio_negative.png Graphic file (type png)
 
@@ -625,18 +622,18 @@ File: ./images/sorted_standard_grain_ratio_negative.png Graphic file (type png)
 Package pdftex.def Info: ./images/sorted_standard_grain_ratio_negative.png  use
 d on input line 11.
 (pdftex.def)             Requested size: 90.33728pt x 90.33728pt.
-<./images/grain_later.png, id=82, 320.69812pt x 309.40594pt>
+<./images/grain_later.png, id=86, 320.69812pt x 309.40594pt>
 File: ./images/grain_later.png Graphic file (type png)
 <use ./images/grain_later.png>
 Package pdftex.def Info: ./images/grain_later.png  used on input line 11.
 (pdftex.def)             Requested size: 80.17433pt x 77.35129pt.
-<./images/pair_plot_fruits_ratio.png, id=83, 253.69781pt x 249.93375pt>
+<./images/pair_plot_fruits_ratio.png, id=87, 253.69781pt x 249.93375pt>
 File: ./images/pair_plot_fruits_ratio.png Graphic file (type png)
 <use ./images/pair_plot_fruits_ratio.png>
 Package pdftex.def Info: ./images/pair_plot_fruits_ratio.png  used on input lin
 e 17.
 (pdftex.def)             Requested size: 76.10992pt x 74.9807pt.
-<./images/standard_fruit_ratio_mortality.png, id=84, 361.35pt x 361.35pt>
+<./images/standard_fruit_ratio_mortality.png, id=88, 361.35pt x 361.35pt>
 File: ./images/standard_fruit_ratio_mortality.png Graphic file (type png)
 <use ./images/standard_fruit_ratio_mortality.png>
 Package pdftex.def Info: ./images/standard_fruit_ratio_mortality.png  used on i
@@ -657,13 +654,13 @@ Underfull \hbox (badness 1590) in paragraph at lines 7--23
 \OT1/cmr/m/n/10 and Re-gres-sion show that Grains (-0.84) and
  []
 
-<./images/standard_vegetable_ratio.png, id=85, 361.35pt x 361.35pt>
+<./images/standard_vegetable_ratio.png, id=89, 361.35pt x 361.35pt>
 File: ./images/standard_vegetable_ratio.png Graphic file (type png)
 <use ./images/standard_vegetable_ratio.png>
 Package pdftex.def Info: ./images/standard_vegetable_ratio.png  used on input l
 ine 27.
 (pdftex.def)             Requested size: 90.33728pt x 90.33728pt.
-<./images/standard_actual_vegetable_intake_esrd_mortality.png, id=86, 361.35pt 
+<./images/standard_actual_vegetable_intake_esrd_mortality.png, id=90, 361.35pt 
 x 361.35pt>
 File: ./images/standard_actual_vegetable_intake_esrd_mortality.png Graphic file
  (type png)
@@ -671,7 +668,7 @@ File: ./images/standard_actual_vegetable_intake_esrd_mortality.png Graphic file
 Package pdftex.def Info: ./images/standard_actual_vegetable_intake_esrd_mortali
 ty.png  used on input line 28.
 (pdftex.def)             Requested size: 90.33728pt x 90.33728pt.
-<./images/pairplot_vegetable_.png, id=87, 280.04625pt x 279.29344pt>
+<./images/pairplot_vegetable_.png, id=91, 280.04625pt x 279.29344pt>
 File: ./images/pairplot_vegetable_.png Graphic file (type png)
 <use ./images/pairplot_vegetable_.png>
 Package pdftex.def Info: ./images/pairplot_vegetable_.png  used on input line 2
@@ -763,7 +760,7 @@ Underfull \hbox (badness 2941) in paragraph at lines 40--41
 
 Underfull \vbox (badness 3439) has occurred while \output is active []
 
-<./images/standard_actual_starchy_vegetable_esrd_mortality.png, id=100, 361.35p
+<./images/standard_actual_starchy_vegetable_esrd_mortality.png, id=104, 361.35p
 t x 361.35pt>
 File: ./images/standard_actual_starchy_vegetable_esrd_mortality.png Graphic fil
 e (type png)
@@ -771,7 +768,7 @@ e (type png)
 Package pdftex.def Info: ./images/standard_actual_starchy_vegetable_esrd_mortal
 ity.png  used on input line 45.
 (pdftex.def)             Requested size: 90.33728pt x 90.33728pt.
-<./images/standard_actual_red_and_orange_vegetable_esrd_mortality.png, id=101, 
+<./images/standard_actual_red_and_orange_vegetable_esrd_mortality.png, id=105, 
 361.35pt x 361.35pt>
 File: ./images/standard_actual_red_and_orange_vegetable_esrd_mortality.png Grap
 hic file (type png)
@@ -779,7 +776,7 @@ hic file (type png)
 Package pdftex.def Info: ./images/standard_actual_red_and_orange_vegetable_esrd
 _mortality.png  used on input line 46.
 (pdftex.def)             Requested size: 90.33728pt x 90.33728pt.
-<./images/standard_actual_other_vegetable_esrd_mortality.png, id=102, 361.35pt 
+<./images/standard_actual_other_vegetable_esrd_mortality.png, id=106, 361.35pt 
 x 361.35pt>
 File: ./images/standard_actual_other_vegetable_esrd_mortality.png Graphic file 
 (type png)
@@ -792,7 +789,7 @@ Overfull \hbox (5.0963pt too wide) in paragraph at lines 44--50
  [][] 
  []
 
-<./images/negatively_subgroup_avg_alcohol_intake.png, id=103, 361.35pt x 361.35
+<./images/negatively_subgroup_avg_alcohol_intake.png, id=107, 361.35pt x 361.35
 pt>
 File: ./images/negatively_subgroup_avg_alcohol_intake.png Graphic file (type pn
 g)
@@ -800,7 +797,7 @@ g)
 Package pdftex.def Info: ./images/negatively_subgroup_avg_alcohol_intake.png  u
 sed on input line 52.
 (pdftex.def)             Requested size: 90.33728pt x 90.33728pt.
-<./images/negatively_added_sugar_subgroup_line_2.png, id=104, 361.35pt x 361.35
+<./images/negatively_added_sugar_subgroup_line_2.png, id=108, 361.35pt x 361.35
 pt>
 File: ./images/negatively_added_sugar_subgroup_line_2.png Graphic file (type pn
 g)
@@ -808,26 +805,26 @@ g)
 Package pdftex.def Info: ./images/negatively_added_sugar_subgroup_line_2.png  u
 sed on input line 53.
 (pdftex.def)             Requested size: 90.33728pt x 90.33728pt.
-<./images/negatively_avg_nuts_subgroup_line_3.png, id=105, 361.35pt x 361.35pt>
+<./images/negatively_avg_nuts_subgroup_line_3.png, id=109, 361.35pt x 361.35pt>
 
 File: ./images/negatively_avg_nuts_subgroup_line_3.png Graphic file (type png)
 <use ./images/negatively_avg_nuts_subgroup_line_3.png>
 Package pdftex.def Info: ./images/negatively_avg_nuts_subgroup_line_3.png  used
  on input line 55.
 (pdftex.def)             Requested size: 90.33728pt x 90.33728pt.
-<./images/pairplot_avg_alc.png, id=106, 284.56313pt x 283.0575pt>
+<./images/pairplot_avg_alc.png, id=110, 284.56313pt x 283.0575pt>
 File: ./images/pairplot_avg_alc.png Graphic file (type png)
 <use ./images/pairplot_avg_alc.png>
 Package pdftex.def Info: ./images/pairplot_avg_alc.png  used on input line 56.
 (pdftex.def)             Requested size: 71.1406pt x 70.76419pt.
-<./images/pairplot_raw_data_added_sugar_esrd.png, id=107, 322.95656pt x 321.450
+<./images/pairplot_raw_data_added_sugar_esrd.png, id=111, 322.95656pt x 321.450
 94pt>
 File: ./images/pairplot_raw_data_added_sugar_esrd.png Graphic file (type png)
 <use ./images/pairplot_raw_data_added_sugar_esrd.png>
 Package pdftex.def Info: ./images/pairplot_raw_data_added_sugar_esrd.png  used 
 on input line 58.
 (pdftex.def)             Requested size: 80.73894pt x 80.36253pt.
-<./images/pairplot_nuts_avg_negative.png, id=108, 282.30469pt x 275.52937pt>
+<./images/pairplot_nuts_avg_negative.png, id=112, 282.30469pt x 275.52937pt>
 File: ./images/pairplot_nuts_avg_negative.png Graphic file (type png)
 <use ./images/pairplot_nuts_avg_negative.png>
 Package pdftex.def Info: ./images/pairplot_nuts_avg_negative.png  used on input
@@ -973,30 +970,16 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 44.
  (./shift-recommendation-and-ckd-disease.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 44.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 44.
-
-
-Package rerunfilecheck Warning: File `shift-recommendation-and-ckd-disease.out'
- has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `shift-recommendation-and-ckd-diseas
-e.out':
-(rerunfilecheck)             Before: 4286D388C26F3D538155C85967BB7A27;823
-(rerunfilecheck)             After:  EFDB4C154BC0710C25A0FBE71B88EB49;902.
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+Package rerunfilecheck Info: File `shift-recommendation-and-ckd-disease.out' ha
+s not changed.
+(rerunfilecheck)             Checksum: EFDB4C154BC0710C25A0FBE71B88EB49;902.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 44.
  ) 
 Here is how much of TeX's memory you used:
- 5746 strings out of 492616
- 88675 string characters out of 6129482
- 187841 words of memory out of 5000000
- 9567 multiletter control sequences out of 15000+600000
+ 5749 strings out of 492616
+ 88773 string characters out of 6129482
+ 187994 words of memory out of 5000000
+ 9568 multiletter control sequences out of 15000+600000
  6981 words of font info for 25 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  28i,20n,29p,1745b,401s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1005,11 +988,11 @@ Here is how much of TeX's memory you used:
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
 /usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
 sr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on shift-recommendation-and-ckd-disease.pdf (10 pages, 452199 by
+Output written on shift-recommendation-and-ckd-disease.pdf (10 pages, 452121 by
 tes).
 PDF statistics:
- 164 PDF objects out of 1000 (max. 8388607)
- 114 compressed objects within 2 object streams
+ 168 PDF objects out of 1000 (max. 8388607)
+ 118 compressed objects within 2 object streams
  29 named destinations out of 1000 (max. 500000)
- 182 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 190 words of extra memory for PDF output out of 10000 (max. 10000000)
 

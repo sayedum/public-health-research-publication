@@ -1,0 +1,167 @@
+%elsevier-logo-3p.pdf
+%% 
+%% Copyright 2019 Elsevier Ltd
+%% 
+%% This file is part of the 'CAS Bundle'.
+%% --------------------------------------
+%% 
+%% It may be distributed under the conditions of the LaTeX Project Public
+%% License, either version 1.2 of this license or (at your option) any
+%% later version.  The latest version of this license is in
+%%    http://www.latex-project.org/lppl.txt
+%% and version 1.2 or later is part of all distributions of LaTeX
+%% version 1999/12/01 or later.
+%% 
+%% The list of all files belonging to the 'CAS Bundle' is
+%% given in the file `manifest.txt'.
+%% 
+%% Template article for cas-dc documentclass for 
+%% double column output.
+
+%\documentclass[a4paper,fleqn,longmktitle]{cas-dc}
+\documentclass[a4paper,fleqn]{cas-dc}
+
+%\usepackage[authoryear,longnamesfirst]{natbib}
+%\usepackage[authoryear]{natbib}
+\usepackage[numbers]{natbib}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage{longtable}
+\usepackage{lipsum}
+
+%%%Author definitions
+% \def\tsc#1{\csdef{#1}{\textsc{\lowercase{#1}}\xspace}}
+% \tsc{WGM}
+% \tsc{QE}
+% \tsc{EP}
+% \tsc{PMS}
+% \tsc{BEC}
+% \tsc{DE}
+%%%
+
+\begin{document}
+\let\WriteBookmarks\relax
+\def\floatpagepagefraction{1}
+\def\textpagefraction{.001}
+\shorttitle{Dietary Recommendations Shift and CKD}
+\shortauthors{Ahmed et~al.}
+
+\title [mode = title]{Impact of Dietary Recommendations Shift on  Chronic Kidney Disease}                      
+\tnotemark[1,2]
+
+\tnotetext[1]{This document is the results of the major research project done for MSc in the data science and analytics department}
+
+\tnotetext[2]{No research grant is utilized for this research}
+
+\author[1]{Sayed Ahmed}[type=editor, prefix=,
+                        auid=000,bioid=1,                        
+                        role=,
+                        orcid=0000-0001-7511-2910]
+\cormark[1]
+\fnmark[1]
+\ead{sayed.ahmed@ryerson.ca}
+\ead[url]{ryerson.ca, sayed.ahmed@ryerson.ca}
+\credit{...}
+\address[1]{Data Science Department, Ryerson University, Toronto, Canada}
+
+\author[2]{Youcef Derbal}[style=chinese, role=, prefix=Dr.]
+\cormark[2]
+\fnmark[2]
+\ead{yderbal@ryerson.ca}
+\ead[URL]{ryerson.ca, yderbal@ryerson.ca}
+\credit{...}
+\address[2]{Department of Information Technology Management, Ryerson University, Toronto, Canada}
+
+\cortext[cor1]{Corresponding author}
+\cortext[cor2]{Principal corresponding author}
+\fntext[fn1]{This is the first author footnote. but is common to third
+  author as well.}
+\fntext[fn2]{Another author footnote, this is a very long footnote and
+  it should be a really long footnote. But this footnote is not yet
+  sufficiently long enough to make two lines of footnote text.}
+\nonumnote{Just another note. Impact of Dietary Recommendations Shift  on CKD Patients}
+\begin{abstract}
+\noindent\texttt{} 
+\input{abstract.tex}
+\end{abstract}
+%\includegraphics{figs/elsevier-logo-3p.pdf}
+%\includegraphics{figs/SDlogo-5p.pdf}
+%%-----------
+%\begin{graphicalabstract}
+%\includegraphics{figs/grabs.pdf}
+%\end{graphicalabstract}
+%%-----------
+%%-----------
+%\begin{highlights}
+%\item Research highlights item 1
+%\item Research highlights item 2
+%\item Research highlights item 3
+%\end{highlights}
+%%-----------
+\begin{keywords}
+CKD  \sep ESRD \sep  Dietary Patterns \sep  Mortality \sep  ACR \sep  Dietary Recommendations Shift
+\end{keywords}
+\maketitle
+\section{Introduction}
+\input{introduction}
+\input{literature}
+%\input{exploratory-study}
+\input{methodology}
+%\input{experiment-and-outcome}
+
+\newcommand{\specialcell}[2][c]{%
+\begin{tabular}[#1]{@{}l@{}}#2\end{tabular}}
+
+
+\input{no-prediction-results-with-reference}
+\input{relation-with-shift-recommendation}
+\input{conclusions}
+
+
+
+
+
+
+
+
+\section{Bibliography}
+
+
+\appendix
+\section{My Appendix}
+
+\printcredits
+
+%% Loading bibliography style file
+%\bibliographystyle{model1-num-names}
+\bibliographystyle{cas-model2-names}
+
+% Loading bibliography database
+\bibliography{cas-refs}
+
+%\vskip3pt
+
+\bio{figs/pic1}
+Author biography with author photo.
+Author biography. Author biography. Author biography.
+Author biography. Author biography. Author biography.
+Author biography. Author biography. Author biography.
+Author biography. Author biography. Author biography.
+Author biography. Author biography. Author biography.
+Author biography. Author biography. Author biography.
+Author biography. Author biography. Author biography.
+Author biography. Author biography. Author biography.
+Author biography. Author biography. Author biography.
+\endbio
+
+\bio{figs/pic1}
+Author biography with author photo.
+Author biography. Author biography. Author biography.
+Author biography. Author biography. Author biography.
+Author biography. Author biography. Author biography.
+Author biography. Author biography. Author biography.
+\endbio
+
+\end{document}
+
