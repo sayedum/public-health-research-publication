@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  10 SEP 2019 21:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  11 SEP 2019 13:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -916,30 +916,6 @@ Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks32
 \inpenc@posthook=\toks33
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/longtable.sty
-Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)+ FMi change
-\LTleft=\skip70
-\LTright=\skip71
-\LTpre=\skip72
-\LTpost=\skip73
-\LTchunksize=\count312
-\LTcapwidth=\dimen259
-\LT@head=\box58
-\LT@firsthead=\box59
-\LT@foot=\box60
-\LT@lastfoot=\box61
-\LT@cols=\count313
-\LT@rows=\count314
-\c@LT@tables=\count315
-\c@LT@chunks=\count316
-\LT@p@ftn=\toks34
-)
-(/usr/local/texlive/2019/texmf-dist/tex/latex/lipsum/lipsum.sty
-Package: lipsum 2019/01/02 v2.2 150 paragraphs of Lorem Ipsum dummy text
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
-File: lipsum.ltd.tex 2019/01/02 v2.2 The Lorem ipsum dummy text
-))
 (./for-elsevier-journal-paper.aux)
 \openout1 = `for-elsevier-journal-paper.aux'.
 
@@ -987,17 +963,17 @@ File: t1stix.fd 2015/04/17 v1.1.2-latex STIX T1 font definitions
 )
 (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count317
-\scratchdimen=\dimen260
-\scratchbox=\box62
-\nofMPsegments=\count318
-\nofMParguments=\count319
-\everyMPshowfont=\toks35
-\MPscratchCnt=\count320
-\MPscratchDim=\dimen261
-\MPnumerator=\count321
-\makeMPintoPDFobject=\count322
-\everyMPtoPDFconversion=\toks36
+\scratchcounter=\count312
+\scratchdimen=\dimen259
+\scratchbox=\box58
+\nofMPsegments=\count313
+\nofMParguments=\count314
+\everyMPshowfont=\toks34
+\MPscratchCnt=\count315
+\MPscratchDim=\dimen260
+\MPnumerator=\count316
+\makeMPintoPDFobject=\count317
+\everyMPtoPDFconversion=\toks35
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -1015,7 +991,7 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\AtBeginShipoutBox=\box63
+\AtBeginShipoutBox=\box59
 Package hyperref Info: Link coloring ON on input line 43.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
@@ -1024,7 +1000,7 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count323
+\c@section@level=\count318
 )
 LaTeX Info: Redefining \ref on input line 43.
 LaTeX Info: Redefining \pageref on input line 43.
@@ -1562,16 +1538,12 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 166.
 Package rerunfilecheck Info: File `for-elsevier-journal-paper.out' has not chan
 ged.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 21984 strings out of 492616
- 369479 string characters out of 6129482
- 606313 words of memory out of 5000000
- 25576 multiletter control sequences out of 15000+600000
+ 21750 strings out of 492616
+ 364313 string characters out of 6129482
+ 432125 words of memory out of 5000000
+ 25352 multiletter control sequences out of 15000+600000
  631059 words of font info for 156 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  43i,22n,69p,1735b,512s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1586,7 +1558,7 @@ ar.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfss0900
 .pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfsx0900.p
 fb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/stix/stix-mathit.pfb>
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/stix/stix-mathrm.pfb>
-Output written on for-elsevier-journal-paper.pdf (7 pages, 572214 bytes).
+Output written on for-elsevier-journal-paper.pdf (7 pages, 572006 bytes).
 PDF statistics:
  140 PDF objects out of 1000 (max. 8388607)
  88 compressed objects within 1 object stream

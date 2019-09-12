@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: final-template-based-paper.aux
+The style file: model3-num-names.bst
+Database file #1: references.bib
+Warning--I didn't find a database entry for "HealthGov2015"
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 26 entries,
+            3138 wiz_defined-function locations,
+            828 strings with 11610 characters,
+and the built_in function-call counts, 19812 in all, are:
+= -- 1433
+> -- 814
+< -- 12
++ -- 436
+- -- 210
+* -- 2201
+:= -- 2649
+add.period$ -- 78
+call.type$ -- 26
+change.case$ -- 130
+chr.to.int$ -- 24
+cite$ -- 26
+duplicate$ -- 1610
+empty$ -- 1537
+format.name$ -- 272
+if$ -- 3807
+int.to.chr$ -- 3
+int.to.str$ -- 27
+missing$ -- 272
+newline$ -- 147
+num.names$ -- 78
+pop$ -- 430
+preamble$ -- 1
+purify$ -- 130
+quote$ -- 0
+skip$ -- 541
+stack$ -- 0
+substring$ -- 1345
+swap$ -- 964
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 156
+warning$ -- 0
+while$ -- 83
+width$ -- 0
+write$ -- 370
+(There was 1 warning)

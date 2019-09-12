@@ -1,0 +1,256 @@
+\begin{thebibliography}{26}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\eprint}[1]{\href{http://arxiv.org/abs/#1}{\path{#1}}}
+\providecommand{\DOIprefix}{doi:}
+\providecommand{\ArXivprefix}{arXiv:}
+\providecommand{\URLprefix}{URL: }
+\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\BIBand}{and}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\undefined \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{Jaimon et~al.(2017)Jaimon, Suetonia, Shu, Marinella, Juan-Jesus,
+  Katrina et~al.}]{Jaimonetal2017}
+\bibinfo{author}{Jaimon\xfnm[ T.K.]}, \bibinfo{author}{Suetonia\xfnm[ C.P.]},
+  \bibinfo{author}{Shu\xfnm[ N.W.]}, \bibinfo{author}{Marinella\xfnm[ R.]},
+  \bibinfo{author}{Juan-Jesus\xfnm[ C.]}, \bibinfo{author}{Katrina\xfnm[
+  L.C.]}, et~al.
+\newblock \bibinfo{title}{Healthy dietary patterns and risk of mortality and
+  esrd in ckd: A meta-analysis of cohort studies}.
+\newblock \bibinfo{journal}{CJASN}
+  \bibinfo{year}{2017};\bibinfo{volume}{12(2)}:\bibinfo{pages}{272--279}.
+%Type = Misc
+\bibitem[{Hannah(2019)}]{Hannan2019}
+\bibinfo{author}{Hannah\xfnm[ N.]}.
+\newblock \bibinfo{title}{What are the leading causes of death in the us?}
+\newblock
+  \bibinfo{howpublished}{\url{https://www.medicalnewstoday.com/articles/282929.php}};
+  \bibinfo{year}{2019}.
+%Type = Article
+\bibitem[{Jacek et~al.(2017)Jacek, Beata, Aleksandra and Anna}]{Jaceketal2017}
+\bibinfo{author}{Jacek\xfnm[ R.]}, \bibinfo{author}{Beata\xfnm[ F.]},
+  \bibinfo{author}{Aleksandra\xfnm[ C.]}, \bibinfo{author}{Anna\xfnm[ G.]}.
+\newblock \bibinfo{title}{The effect of diet on the survival of patients with
+  chronic kidney disease}.
+\newblock \bibinfo{journal}{Nutrients}
+  \bibinfo{year}{2017};\bibinfo{volume}{9(5)}:\bibinfo{pages}{495}.
+%Type = Article
+\bibitem[{Huang et~al.(2013)Huang, Jime~nez Moleo, Lindholm, Cederholm,
+  Arnoldv, Rise~rus et~al.}]{Huangetal2013}
+\bibinfo{author}{Huang\xfnm[ X.]}, \bibinfo{author}{Jime~nez Moleo\xfnm[
+  J.J.]}, \bibinfo{author}{Lindholm\xfnm[ B.]},
+  \bibinfo{author}{Cederholm\xfnm[ T.]}, \bibinfo{author}{Arnoldv\xfnm[ J.]},
+  \bibinfo{author}{Rise~rus\xfnm[ U.]}, et~al.
+\newblock \bibinfo{title}{Mediterranean diet, kidney function, and mortality in
+  men with ckd}.
+\newblock \bibinfo{journal}{Clin J Am Soc Nephrol}
+  \bibinfo{year}{2013};\bibinfo{volume}{8(9)}:\bibinfo{pages}{1548–1555}.
+%Type = Article
+\bibitem[{Chen et~al.(2016)Chen, Wei, Jalili, Metos, Giri, Cho
+  et~al.}]{Chenetal2016}
+\bibinfo{author}{Chen\xfnm[ X.]}, \bibinfo{author}{Wei\xfnm[ G.]},
+  \bibinfo{author}{Jalili\xfnm[ T.]}, \bibinfo{author}{Metos\xfnm[ J.]},
+  \bibinfo{author}{Giri\xfnm[ A.]}, \bibinfo{author}{Cho\xfnm[ M.]}, et~al.
+\newblock \bibinfo{title}{The associations of plant protein intake with
+  all-cause mortality in ckd}.
+\newblock \bibinfo{journal}{Am J Kidney Dis}
+  \bibinfo{year}{2016};\bibinfo{volume}{67(3)}:\bibinfo{pages}{423–430}.
+%Type = Article
+\bibitem[{Gutierrez et~al.(2014)Gutierrez, Muntner, Rizk, McClellan, Warnock,
+  Newby et~al.}]{Gutierreztal2014}
+\bibinfo{author}{Gutierrez\xfnm[ O.M.]}, \bibinfo{author}{Muntner\xfnm[ P.]},
+  \bibinfo{author}{Rizk\xfnm[ D.V.]}, \bibinfo{author}{McClellan\xfnm[ W.M.]},
+  \bibinfo{author}{Warnock\xfnm[ D.G.]}, \bibinfo{author}{Newby\xfnm[ P.K.]},
+  et~al.
+\newblock \bibinfo{title}{Dietary patterns and risk of death and progression to
+  esrd in individuals with ckd: A cohort study}.
+\newblock \bibinfo{journal}{Am J Kidney Dis}
+  \bibinfo{year}{2014};\bibinfo{volume}{64(2)}:\bibinfo{pages}{204–213}.
+%Type = Article
+\bibitem[{Muntner et~al.(2013)Muntner, Judd, Gao, Gutierrez, Rizk, McClellan
+  et~al.}]{Muntneretal2013}
+\bibinfo{author}{Muntner\xfnm[ P.]}, \bibinfo{author}{Judd\xfnm[ S.E.]},
+  \bibinfo{author}{Gao\xfnm[ L.]}, \bibinfo{author}{Gutierrez\xfnm[ O.M.]},
+  \bibinfo{author}{Rizk\xfnm[ D.V.]}, \bibinfo{author}{McClellan\xfnm[ W.]},
+  et~al.
+\newblock \bibinfo{title}{Cardiovascular risk factors in ckd associated with
+  both esrd and mortality}.
+\newblock \bibinfo{journal}{J Am Soc Nephrol}
+  \bibinfo{year}{2013};\bibinfo{volume}{24(7)}:\bibinfo{pages}{1159–1165}.
+%Type = Article
+\bibitem[{Ricardo et~al.(2013)Ricardo, Madero, Yang, Anderson, Menezes, Fischer
+  et~al.}]{Ricardoetal2013}
+\bibinfo{author}{Ricardo\xfnm[ A.C.]}, \bibinfo{author}{Madero\xfnm[ M.]},
+  \bibinfo{author}{Yang\xfnm[ W.]}, \bibinfo{author}{Anderson\xfnm[ C.]},
+  \bibinfo{author}{Menezes\xfnm[ M.]}, \bibinfo{author}{Fischer\xfnm[ M.J.]},
+  et~al.
+\newblock \bibinfo{title}{Adherence to a healthy lifestyle and all-cause
+  mortality in ckd}.
+\newblock \bibinfo{journal}{Clin J Am Soc Nephrol}
+  \bibinfo{year}{2013};\bibinfo{volume}{8(4)}:\bibinfo{pages}{602–609}.
+%Type = Article
+\bibitem[{Tsuruya et~al.(2015)Tsuruya, Fukuma, Wakita, Ninomiya, Nagata,
+  Yoshida et~al.}]{Tsuruyaetal2015}
+\bibinfo{author}{Tsuruya\xfnm[ K.]}, \bibinfo{author}{Fukuma\xfnm[ S.]},
+  \bibinfo{author}{Wakita\xfnm[ T.]}, \bibinfo{author}{Ninomiya\xfnm[ T.]},
+  \bibinfo{author}{Nagata\xfnm[ M.]}, \bibinfo{author}{Yoshida\xfnm[ H.]},
+  et~al.
+\newblock \bibinfo{title}{Dietary patterns and clinical outcomes in
+  hemodialysis patients in japan. a cohort study}.
+\newblock \bibinfo{journal}{PLoS One}
+  \bibinfo{year}{2015};\bibinfo{volume}{10}.
+%Type = Article
+\bibitem[{Ricardo et~al.(2015)Ricardo, Anderson, Yang, Zhang, Fischer, Dember
+  et~al.}]{Ricardoetal2015}
+\bibinfo{author}{Ricardo\xfnm[ A.C.]}, \bibinfo{author}{Anderson\xfnm[ C.A.]},
+  \bibinfo{author}{Yang\xfnm[ W.]}, \bibinfo{author}{Zhang\xfnm[ X.]},
+  \bibinfo{author}{Fischer\xfnm[ M.J.]}, \bibinfo{author}{Dember\xfnm[ L.M.]},
+  et~al.
+\newblock \bibinfo{title}{Cric study investigators: Healthy lifestyle and risk
+  of kidney disease progression, atherosclerotic events, and death in ckd:
+  Findings from the chronic renal insufficiency cohort (cric) study}.
+\newblock \bibinfo{journal}{Am J Kidney Dis}
+  \bibinfo{year}{2015};\bibinfo{volume}{65(3)}:\bibinfo{pages}{412–424}.
+%Type = Misc
+\bibitem[{CDC(2016)}]{CDC2015}
+\bibinfo{author}{CDC\xfnm[]}.
+\newblock \bibinfo{title}{National health and nutrition examination survey}.
+\newblock
+  \bibinfo{howpublished}{\url{https://wwwn.cdc.gov/nchs/nhanes/search/datapage.aspx?Component=Dietary}};
+  \bibinfo{year}{2015-2016}.
+%Type = Misc
+\bibitem[{USRDS(2018{\natexlab{a}})}]{USRDS2015}
+\bibinfo{author}{USRDS\xfnm[]}.
+\newblock \bibinfo{title}{The 2018 usrds annual data report reference tables}.
+\newblock \bibinfo{howpublished}{\url{https://www.usrds.org/reference.aspx}};
+  \bibinfo{year}{2018}{\natexlab{a}}.
+%Type = Misc
+\bibitem[{USRDS(2018{\natexlab{b}})}]{USRDS2018}
+\bibinfo{author}{USRDS\xfnm[]}.
+\newblock \bibinfo{title}{The 2018 usrds annual data report reference tables.
+  2018 adr chapters}.
+\newblock
+  \bibinfo{howpublished}{\url{https://www.usrds.org/2018/view/Default.aspx}};
+  \bibinfo{year}{2018}{\natexlab{b}}.
+%Type = Misc
+\bibitem[{USRDS(2018{\natexlab{c}})}]{USRDSAnnual2018}
+\bibinfo{author}{USRDS\xfnm[]}.
+\newblock \bibinfo{title}{2018 usrds annual data report: Executive summary}.
+\newblock
+  \bibinfo{howpublished}{\url{https://www.usrds.org/2018/download/v1\_00\_ExecSummary\_18.pdf}};
+  \bibinfo{year}{2018}{\natexlab{c}}.
+%Type = Misc
+\bibitem[{ARS(2016)}]{ARS2016}
+\bibinfo{author}{ARS\xfnm[]}.
+\newblock \bibinfo{title}{Agricultural research service (ars), usda. food code
+  numbers and the food coding scheme}.
+\newblock
+  \bibinfo{howpublished}{\url{https://reedir.arsnet.usda.gov/codesearchwebapp/\(gcp3kq55ssdyc445ry2k2rus\)/coding\_scheme.pdf}};
+  \bibinfo{year}{2016}.
+%Type = Misc
+\bibitem[{CDC(2004)}]{CDC2004}
+\bibinfo{author}{CDC\xfnm[]}.
+\newblock \bibinfo{title}{Centers for disease control and prevention. key
+  concepts about the usda food coding scheme}.
+\newblock
+  \bibinfo{howpublished}{\url{https://www.cdc.gov/nchs/tutorials/Dietary/SurveyOrientation/ResourceDietaryAnalysis/Info2.htm}};
+  \bibinfo{year}{2003-2004}.
+%Type = Misc
+\bibitem[{USDA(2010)}]{USDA2010}
+\bibinfo{author}{USDA\xfnm[]}.
+\newblock \bibinfo{title}{The u.s. department of agriculture’s (usda).
+  vegetable subgroups}.
+\newblock
+  \bibinfo{howpublished}{\url{http://www.cn.nysed.gov/common/cn/files/Vegetable\%20Subgroups.pdf}};
+  \bibinfo{year}{2010}.
+%Type = Article
+\bibitem[{Hsu et~al.(2013)Hsu, Pai, Chang, Liu and Hsu}]{Hsuetal2013}
+\bibinfo{author}{Hsu\xfnm[ Y.H.]}, \bibinfo{author}{Pai\xfnm[ H.C.]},
+  \bibinfo{author}{Chang\xfnm[ Y.M.]}, \bibinfo{author}{Liu\xfnm[ W.H.]},
+  \bibinfo{author}{Hsu\xfnm[ C.C.]}.
+\newblock \bibinfo{title}{Alcohol consumption is inversely associated with
+  stage 3 chronic kidney disease in middle-aged taiwanese men}.
+\newblock \bibinfo{journal}{BMC nephrology}
+  \bibinfo{year}{2013};\bibinfo{volume}{14}:\bibinfo{pages}{254}.
+%Type = Article
+\bibitem[{Fernandez-Prado et~al.(2017)Fernandez-Prado, Esteras, Perez-Gomez,
+  Gracia-Iguacel, Gonzalez-Parra, Sanz et~al.}]{Fernandez-Pradoetal2017}
+\bibinfo{author}{Fernandez-Prado\xfnm[ R.]}, \bibinfo{author}{Esteras\xfnm[
+  R.]}, \bibinfo{author}{Perez-Gomez\xfnm[ M.V.]},
+  \bibinfo{author}{Gracia-Iguacel\xfnm[ C.]},
+  \bibinfo{author}{Gonzalez-Parra\xfnm[ E.]}, \bibinfo{author}{Sanz\xfnm[
+  A.B.]}, et~al.
+\newblock \bibinfo{title}{Nutrients turned into toxins: Microbiota modulation
+  of nutrient properties in chronic kidney disease}.
+\newblock \bibinfo{journal}{Nutrients}
+  \bibinfo{year}{2017};\bibinfo{volume}{9(5)}:\bibinfo{pages}{489}.
+%Type = Article
+\bibitem[{Rippe and Angelopoulos(2016)}]{RippeAngelopoulos2016}
+\bibinfo{author}{Rippe\xfnm[ J.M.]}, \bibinfo{author}{Angelopoulos\xfnm[
+  T.J.]}.
+\newblock \bibinfo{title}{Relationship between added sugars consumption and
+  chronic disease risk factors: Current understanding}.
+\newblock \bibinfo{journal}{Nutrients}
+  \bibinfo{year}{2016};\bibinfo{volume}{8(11)}:\bibinfo{pages}{697}.
+%Type = Article
+\bibitem[{Karalius and Shoham(2013)}]{KaraliusShoham2013}
+\bibinfo{author}{Karalius\xfnm[ V.P.]}, \bibinfo{author}{Shoham\xfnm[ D.A.]}.
+\newblock \bibinfo{title}{Dietary sugar and artificial sweetener intake and
+  chronic kidney disease: a review}.
+\newblock \bibinfo{journal}{Adv Chronic Kidney Dis}
+  \bibinfo{year}{2013};\bibinfo{volume}{20}:\bibinfo{pages}{157–164}.
+%Type = Misc
+\bibitem[{k(2018)}]{Jilian2018}
+\bibinfo{author}{k\xfnm[ J.]}.
+\newblock \bibinfo{title}{The 20 best foods for people with kidney problems}.
+\newblock
+  \bibinfo{howpublished}{\url{https://www.healthline.com/nutrition/best-foods-for-kidneys}};
+  \bibinfo{year}{2018}.
+%Type = Misc
+\bibitem[{NKF(2019)}]{NKF2019}
+\bibinfo{author}{NKF\xfnm[]}.
+\newblock \bibinfo{title}{National kidney foundation (nkf), usa. drinking
+  alcohol affects your kidneys}.
+\newblock
+  \bibinfo{howpublished}{\url{https://www.kidney.org/news/kidneyCare/winter10/AlcoholAffects}};
+  \bibinfo{year}{2019}.
+%Type = Article
+\bibitem[{Uehara et~al.(2016)Uehara, Hayashi, Kogawa, Kinuhata, Shibata, Oue
+  et~al.}]{Ueharaetal2016}
+\bibinfo{author}{Uehara\xfnm[ S.]}, \bibinfo{author}{Hayashi\xfnm[ T.]},
+  \bibinfo{author}{Kogawa\xfnm[ S.K.]}, \bibinfo{author}{Kinuhata\xfnm[ S.]},
+  \bibinfo{author}{Shibata\xfnm[ M.]}, \bibinfo{author}{Oue\xfnm[ K.]}, et~al.
+\newblock \bibinfo{title}{Relationship between alcohol drinking pattern and
+  risk of proteinuria: The kansai healthcare study}.
+\newblock \bibinfo{journal}{Journal of epidemiology}
+  \bibinfo{year}{2016};\bibinfo{volume}{26(9)}:\bibinfo{pages}{464–470}.
+%Type = Article
+\bibitem[{Nettleton et~al.(2008)Nettleton, Steffen, Palmas, Burke and
+  Jacobs}]{Nettletonetal2008}
+\bibinfo{author}{Nettleton\xfnm[ J.A.]}, \bibinfo{author}{Steffen\xfnm[ L.M.]},
+  \bibinfo{author}{Palmas\xfnm[ W.]}, \bibinfo{author}{Burke\xfnm[ G.L.]},
+  \bibinfo{author}{Jacobs\xfnm[ D.R.]}.
+\newblock \bibinfo{title}{Associations between micro albuminuria and animal
+  foods, plant foods, and dietary patterns in the multiethnic study of
+  atherosclerosis}.
+\newblock \bibinfo{journal}{The American journal of clinical nutrition}
+  \bibinfo{year}{2008};\bibinfo{volume}{87(6)}:\bibinfo{pages}{1825–1836}.
+%Type = Article
+\bibitem[{Jacobs et~al.(2009)Jacobs, Jr, Steffen, Steffes, Yu, Svetkey
+  et~al.}]{Jacobsetal2009}
+\bibinfo{author}{Jacobs\xfnm[ D.R.]}, \bibinfo{author}{Jr Gross\xfnm[ M.D.]},
+  \bibinfo{author}{Steffen\xfnm[ L.]}, \bibinfo{author}{Steffes\xfnm[ M.W.]},
+  \bibinfo{author}{Yu\xfnm[ X.]}, \bibinfo{author}{Svetkey\xfnm[ L.P.]}, et~al.
+\newblock \bibinfo{title}{The effects of dietary patterns on urinary albumin
+  excretion: results of the dietary approaches to stop hypertension (dash)
+  trial}.
+\newblock \bibinfo{journal}{American journal of kidney diseases : the official
+  journal of the National Kidney Foundation}
+  \bibinfo{year}{2009};\bibinfo{volume}{53(4)}:\bibinfo{pages}{638–646}.
+
+\end{thebibliography}
