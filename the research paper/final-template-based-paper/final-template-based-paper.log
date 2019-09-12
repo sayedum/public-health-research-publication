@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  11 SEP 2019 22:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  12 SEP 2019 16:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -732,213 +732,289 @@ LaTeX Font Info:    Font shape `OML/txr/m/n' in size <10> not available
 (Font)              Font shape `OML/txmi/m/it' tried instead on input line 10.
 )
 (./literature.tex
-Underfull \vbox (badness 3354) has occurred while \output is active []
+Underfull \vbox (badness 1412) has occurred while \output is active []
 
  [2])
 (./methodology.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 <./images/methodologies-enhanced.png, id=27, 472.01344pt x 575.90157pt>
 File: ./images/methodologies-enhanced.png Graphic file (type png)
 <use ./images/methodologies-enhanced.png>
 Package pdftex.def Info: ./images/methodologies-enhanced.png  used on input lin
 e 7.
 (pdftex.def)             Requested size: 226.56387pt x 276.42961pt.
+ [3 <./images/methodologies-enhanced.png>]
+Underfull \hbox (badness 1371) in paragraph at lines 30--31
+[]\OT1/txr/m/n/10 In an-other mor-tal-ity ex-per-i-ment, the above syn-the-size
+d
+ []
 
-
-Package natbib Warning: Citation `HealthGov2015' on page 3 undefined on input l
-ine 16.
-
-[3 <./images/methodologies-enhanced.png>])
-(./no-prediction-results-with-reference.tex
+) (./no-prediction-results-with-reference.tex
 <./images/sorted_standard_grain_ratio_negative.png, id=31, 361.35pt x 361.35pt>
 
 File: ./images/sorted_standard_grain_ratio_negative.png Graphic file (type png)
 
 <use ./images/sorted_standard_grain_ratio_negative.png>
 Package pdftex.def Info: ./images/sorted_standard_grain_ratio_negative.png  use
-d on input line 11.
+d on input line 10.
 (pdftex.def)             Requested size: 90.33728pt x 90.33728pt.
 <./images/grain_later.png, id=33, 320.69812pt x 309.40594pt>
 File: ./images/grain_later.png Graphic file (type png)
 <use ./images/grain_later.png>
-Package pdftex.def Info: ./images/grain_later.png  used on input line 11.
+Package pdftex.def Info: ./images/grain_later.png  used on input line 10.
 (pdftex.def)             Requested size: 80.17433pt x 77.35129pt.
 <./images/pair_plot_fruits_ratio.png, id=34, 253.69781pt x 249.93375pt>
 File: ./images/pair_plot_fruits_ratio.png Graphic file (type png)
 <use ./images/pair_plot_fruits_ratio.png>
 Package pdftex.def Info: ./images/pair_plot_fruits_ratio.png  used on input lin
-e 17.
+e 16.
 (pdftex.def)             Requested size: 76.10992pt x 74.9807pt.
 <./images/standard_fruit_ratio_mortality.png, id=35, 361.35pt x 361.35pt>
 File: ./images/standard_fruit_ratio_mortality.png Graphic file (type png)
 <use ./images/standard_fruit_ratio_mortality.png>
 Package pdftex.def Info: ./images/standard_fruit_ratio_mortality.png  used on i
-nput line 17.
+nput line 16.
 (pdftex.def)             Requested size: 90.33728pt x 90.33728pt.
 <./images/standard_vegetable_ratio.png, id=36, 361.35pt x 361.35pt>
 File: ./images/standard_vegetable_ratio.png Graphic file (type png)
 <use ./images/standard_vegetable_ratio.png>
 Package pdftex.def Info: ./images/standard_vegetable_ratio.png  used on input l
-ine 27.
+ine 26.
 (pdftex.def)             Requested size: 90.33728pt x 90.33728pt.
-<./images/standard_actual_vegetable_intake_esrd_mortality.png, id=37, 361.35pt 
-x 361.35pt>
-File: ./images/standard_actual_vegetable_intake_esrd_mortality.png Graphic file
- (type png)
-<use ./images/standard_actual_vegetable_intake_esrd_mortality.png>
-Package pdftex.def Info: ./images/standard_actual_vegetable_intake_esrd_mortali
-ty.png  used on input line 28.
-(pdftex.def)             Requested size: 90.33728pt x 90.33728pt.
-<./images/pairplot_vegetable_.png, id=38, 280.04625pt x 279.29344pt>
+<./images/pairplot_vegetable_.png, id=37, 280.04625pt x 279.29344pt>
 File: ./images/pairplot_vegetable_.png Graphic file (type png)
 <use ./images/pairplot_vegetable_.png>
 Package pdftex.def Info: ./images/pairplot_vegetable_.png  used on input line 2
-9.
+7.
 (pdftex.def)             Requested size: 70.01138pt x 69.82318pt.
  [4 <./images/sorted_standard_grain_ratio_negative.png> <./images/grain_later.p
 ng> <./images/pair_plot_fruits_ratio.png> <./images/standard_fruit_ratio_mortal
 ity.png>]
-<./images/standard_actual_starchy_vegetable_esrd_mortality.png, id=44, 361.35pt
+<./images/standard_actual_starchy_vegetable_esrd_mortality.png, id=43, 361.35pt
  x 361.35pt>
 File: ./images/standard_actual_starchy_vegetable_esrd_mortality.png Graphic fil
 e (type png)
 <use ./images/standard_actual_starchy_vegetable_esrd_mortality.png>
 Package pdftex.def Info: ./images/standard_actual_starchy_vegetable_esrd_mortal
-ity.png  used on input line 45.
+ity.png  used on input line 42.
 (pdftex.def)             Requested size: 90.33728pt x 90.33728pt.
-<./images/standard_actual_red_and_orange_vegetable_esrd_mortality.png, id=45, 3
+<./images/standard_actual_red_and_orange_vegetable_esrd_mortality.png, id=44, 3
 61.35pt x 361.35pt>
 File: ./images/standard_actual_red_and_orange_vegetable_esrd_mortality.png Grap
 hic file (type png)
 <use ./images/standard_actual_red_and_orange_vegetable_esrd_mortality.png>
 Package pdftex.def Info: ./images/standard_actual_red_and_orange_vegetable_esrd
-_mortality.png  used on input line 46.
+_mortality.png  used on input line 43.
 (pdftex.def)             Requested size: 90.33728pt x 90.33728pt.
-<./images/standard_actual_other_vegetable_esrd_mortality.png, id=46, 361.35pt x
+<./images/standard_actual_other_vegetable_esrd_mortality.png, id=45, 361.35pt x
  361.35pt>
 File: ./images/standard_actual_other_vegetable_esrd_mortality.png Graphic file 
 (type png)
 <use ./images/standard_actual_other_vegetable_esrd_mortality.png>
 Package pdftex.def Info: ./images/standard_actual_other_vegetable_esrd_mortalit
-y.png  used on input line 47.
+y.png  used on input line 44.
 (pdftex.def)             Requested size: 90.33728pt x 90.33728pt.
-<./images/negatively_subgroup_avg_alcohol_intake.png, id=47, 361.35pt x 361.35p
+<./images/negatively_subgroup_avg_alcohol_intake.png, id=46, 361.35pt x 361.35p
 t>
 File: ./images/negatively_subgroup_avg_alcohol_intake.png Graphic file (type pn
 g)
 <use ./images/negatively_subgroup_avg_alcohol_intake.png>
 Package pdftex.def Info: ./images/negatively_subgroup_avg_alcohol_intake.png  u
-sed on input line 52.
+sed on input line 50.
 (pdftex.def)             Requested size: 90.33728pt x 90.33728pt.
-<./images/negatively_added_sugar_subgroup_line_2.png, id=48, 361.35pt x 361.35p
+<./images/negatively_added_sugar_subgroup_line_2.png, id=47, 361.35pt x 361.35p
 t>
 File: ./images/negatively_added_sugar_subgroup_line_2.png Graphic file (type pn
 g)
 <use ./images/negatively_added_sugar_subgroup_line_2.png>
 Package pdftex.def Info: ./images/negatively_added_sugar_subgroup_line_2.png  u
-sed on input line 53.
+sed on input line 51.
 (pdftex.def)             Requested size: 90.33728pt x 90.33728pt.
-<./images/negatively_avg_nuts_subgroup_line_3.png, id=49, 361.35pt x 361.35pt>
+<./images/negatively_avg_nuts_subgroup_line_3.png, id=48, 361.35pt x 361.35pt>
 File: ./images/negatively_avg_nuts_subgroup_line_3.png Graphic file (type png)
 <use ./images/negatively_avg_nuts_subgroup_line_3.png>
 Package pdftex.def Info: ./images/negatively_avg_nuts_subgroup_line_3.png  used
- on input line 55.
+ on input line 52.
 (pdftex.def)             Requested size: 90.33728pt x 90.33728pt.
-<./images/pairplot_avg_alc.png, id=50, 284.56313pt x 283.0575pt>
+<./images/pairplot_avg_alc.png, id=49, 284.56313pt x 283.0575pt>
 File: ./images/pairplot_avg_alc.png Graphic file (type png)
 <use ./images/pairplot_avg_alc.png>
-Package pdftex.def Info: ./images/pairplot_avg_alc.png  used on input line 56.
+Package pdftex.def Info: ./images/pairplot_avg_alc.png  used on input line 53.
 (pdftex.def)             Requested size: 71.1406pt x 70.76419pt.
-<./images/pairplot_raw_data_added_sugar_esrd.png, id=51, 322.95656pt x 321.4509
+<./images/pairplot_raw_data_added_sugar_esrd.png, id=50, 322.95656pt x 321.4509
 4pt>
 File: ./images/pairplot_raw_data_added_sugar_esrd.png Graphic file (type png)
 <use ./images/pairplot_raw_data_added_sugar_esrd.png>
 Package pdftex.def Info: ./images/pairplot_raw_data_added_sugar_esrd.png  used 
-on input line 58.
+on input line 54.
 (pdftex.def)             Requested size: 80.73894pt x 80.36253pt.
-<./images/pairplot_nuts_avg_negative.png, id=52, 282.30469pt x 275.52937pt>
+<./images/pairplot_nuts_avg_negative.png, id=51, 282.30469pt x 275.52937pt>
 File: ./images/pairplot_nuts_avg_negative.png Graphic file (type png)
 <use ./images/pairplot_nuts_avg_negative.png>
 Package pdftex.def Info: ./images/pairplot_nuts_avg_negative.png  used on input
- line 59.
+ line 55.
 (pdftex.def)             Requested size: 70.57599pt x 68.88217pt.
- [5 <./images/standard_vegetable_ratio.png> <./images/standard_actual_vegetable
-_intake_esrd_mortality.png> <./images/pairplot_vegetable_.png> <./images/standa
-rd_actual_starchy_vegetable_esrd_mortality.png> <./images/standard_actual_red_a
-nd_orange_vegetable_esrd_mortality.png> <./images/standard_actual_other_vegetab
-le_esrd_mortality.png> <./images/negatively_subgroup_avg_alcohol_intake.png> <.
-/images/negatively_added_sugar_subgroup_line_2.png> <./images/negatively_avg_nu
-ts_subgroup_line_3.png> <./images/pairplot_avg_alc.png> <./images/pairplot_raw_
-data_added_sugar_esrd.png> <./images/pairplot_nuts_avg_negative.png>])
+)
 (./relation-with-shift-recommendation.tex
-Underfull \hbox (badness 1028) in paragraph at lines 78--1
-\OT1/txr/m/n/10 The ex-per-i-ments showed `Milk desserts, Sauces, Gravies'
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5 <./images/standard_vegetable_ratio.png> <./images/pairplot_vegetable_.png> 
+<./images/standard_actual_starchy_vegetable_esrd_mortality.png> <./images/stand
+ard_actual_red_and_orange_vegetable_esrd_mortality.png> <./images/standard_actu
+al_other_vegetable_esrd_mortality.png> <./images/negatively_subgroup_avg_alcoho
+l_intake.png> <./images/negatively_added_sugar_subgroup_line_2.png> <./images/n
+egatively_avg_nuts_subgroup_line_3.png> <./images/pairplot_avg_alc.png> <./imag
+es/pairplot_raw_data_added_sugar_esrd.png> <./images/pairplot_nuts_avg_negative
+.png>]
+Overfull \hbox (3.82086pt too wide) in paragraph at lines 8--9
+[] 
  []
 
-[6]) (./conclusions.tex) (./final-template-based-paper.bbl
+
+Overfull \hbox (3.82086pt too wide) in paragraph at lines 14--15
+[] 
+ []
+
+
+Overfull \hbox (3.82086pt too wide) in paragraph at lines 20--21
+[] 
+ []
+
+
+Overfull \hbox (3.82086pt too wide) in paragraph at lines 26--27
+[] 
+ []
+
+
+Overfull \hbox (3.82086pt too wide) in paragraph at lines 32--33
+[] 
+ []
+
+
+Overfull \hbox (3.82086pt too wide) in paragraph at lines 38--39
+[] 
+ []
+
+
+Overfull \hbox (3.82086pt too wide) in paragraph at lines 44--45
+[] 
+ []
+
+
+Overfull \hbox (3.82086pt too wide) in paragraph at lines 50--51
+[] 
+ []
+
+) (./conclusions.tex [6]) (./final-template-based-paper.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 121--127
+[]\OT1/txr/m/n/8 Health.gov, .  Shifts needed to align with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--127
+\OT1/txr/m/n/8 healthy eat-ing pat-terns.  $\OT1/cmtt/m/n/8 https : / / health 
+. gov /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--127
+\OT1/cmtt/m/n/8 dietaryguidelines / 2015 / guidelines / chapter-[]2 /
+ []
+
+
+Overfull \hbox (10.30148pt too wide) in paragraph at lines 121--127
+\OT1/cmtt/m/n/8 a-[]closer-[]look-[]at-[]current-[]intakes-[]and-[]recommended-
+[]shifts/$\OT1/txr/m/n/8 ;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--134
 []\OT1/txr/m/n/8 CDC, .  Na-tional health and nu-tri-tion ex-am-i-na-tion sur-v
 ey.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--127
+Underfull \hbox (badness 10000) in paragraph at lines 128--134
 \OT1/cmtt/m/n/8 https : / / wwwn . cdc . gov / nchs / nhanes / search / datapag
 e . aspx ?
  []
 
 
-Underfull \hbox (badness 5245) in paragraph at lines 142--148
+Underfull \hbox (badness 5245) in paragraph at lines 149--155
 []\OT1/txr/m/n/8 USRDS, .  2018 us-rds an-nual data re-port: Ex-ec-u-tive sum-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--148
+Underfull \hbox (badness 10000) in paragraph at lines 149--155
 \OT1/txr/m/n/8 mary.  $\OT1/cmtt/m/n/8 https : / / www . usrds . org / 2018 / d
 ownload / v1 \ _00 \
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--156
+Underfull \hbox (badness 10000) in paragraph at lines 156--163
 \OT1/cmtt/m/n/8 codesearchwebapp / \(gcp3kq55ssdyc445ry2k2rus \ ) / coding \
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--164
+Underfull \hbox (badness 10000) in paragraph at lines 164--171
 \OT1/cmtt/m/n/8 Dietary / SurveyOrientation / ResourceDietaryAnalysis /
  []
 
 
-Underfull \hbox (badness 6575) in paragraph at lines 165--172
+Underfull \hbox (badness 6575) in paragraph at lines 172--179
 []\OT1/txr/m/n/8 USDA, .  The u.s. de-part-ment of agri-cul-ture's (usda). veg-
 
  []
 
-)
 
-Package natbib Warning: There were undefined citations.
+Underfull \hbox (badness 10000) in paragraph at lines 271--277
+[]\OT1/txr/m/n/8 Tatiana,  D., Jen-nifer,  J..  Trump tar-gets dial-y-
+ []
 
-[7] (./final-template-based-paper.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 271--277
+\OT1/txr/m/n/8 sis, kid-ney trans-plants in care over-haul.  $\OT1/cmtt/m/n/8 h
+ttps :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 271--277
+\OT1/cmtt/m/n/8 / / www . bloomberg . com / news / articles / 2019-[]07-[]09 /
+ []
+
+
+Overfull \hbox (36.30185pt too wide) in paragraph at lines 271--277
+\OT1/cmtt/m/n/8 dialysis-[]providers-[]fall-[]on-[]report-[]trump-[]is-[]mullin
+g-[]an-[]overhaul$\OT1/txr/m/n/8 ;
+ []
+
+) [7] (./final-template-based-paper.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 4353 strings out of 492616
- 61529 string characters out of 6129482
- 139985 words of memory out of 5000000
- 8100 multiletter control sequences out of 15000+600000
+ 4361 strings out of 492616
+ 61493 string characters out of 6129482
+ 141127 words of memory out of 5000000
+ 8109 multiletter control sequences out of 15000+600000
  44153 words of font info for 112 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,20n,35p,1781b,392s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2019/texmf-dist/fon
-ts/enc/dvips/base/8r.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmtt8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/t
-xfonts/rtxmi.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/txfonts
-/rtxr.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/txfonts/txsy.p
-fb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></us
-r/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/te
-xlive/2019/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2019
-/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on final-template-based-paper.pdf (7 pages, 577188 bytes).
+ 41i,20n,35p,1781b,394s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/tex
+live/2019/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/2
+019/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2019/tex
+mf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/local/texlive/2019/texmf-dist
+/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/
+type1/urw/times/utmb8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/
+times/utmr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmr
+i8a.pfb>
+Output written on final-template-based-paper.pdf (7 pages, 559245 bytes).
 PDF statistics:
- 103 PDF objects out of 1000 (max. 8388607)
+ 101 PDF objects out of 1000 (max. 8388607)
  49 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 96 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,4 +1,4 @@
-\begin{thebibliography}{26}
+\begin{thebibliography}{29}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\href}[2]{#2}
@@ -116,6 +116,13 @@
   Findings from the chronic renal insufficiency cohort (cric) study}.
 \newblock \bibinfo{journal}{Am J Kidney Dis}
   \bibinfo{year}{2015};\bibinfo{volume}{65(3)}:\bibinfo{pages}{412–424}.
+%Type = Misc
+\bibitem[{Health.gov(2015)}]{Health2015}
+\bibinfo{author}{Health.gov\xfnm[]}.
+\newblock \bibinfo{title}{Shifts needed to align with healthy eating patterns.}
+\newblock
+  \bibinfo{howpublished}{\url{https://health.gov/dietaryguidelines/2015/guidelines/chapter-2/a-closer-look-at-current-intakes-and-recommended-shifts/}};
+  \bibinfo{year}{2015}.
 %Type = Misc
 \bibitem[{CDC(2016)}]{CDC2015}
 \bibinfo{author}{CDC\xfnm[]}.
@@ -252,5 +259,20 @@
 \newblock \bibinfo{journal}{American journal of kidney diseases : the official
   journal of the National Kidney Foundation}
   \bibinfo{year}{2009};\bibinfo{volume}{53(4)}:\bibinfo{pages}{638–646}.
+%Type = Misc
+\bibitem[{Tatiana and Jennifer(2015)}]{Choosemyplate2015}
+\bibinfo{author}{Tatiana\xfnm[ D.]}, \bibinfo{author}{Jennifer\xfnm[ J.]}.
+\newblock \bibinfo{title}{What are solid fats}.
+\newblock
+  \bibinfo{howpublished}{\url{https://www.choosemyplate.gov/what-are-solid-fats}};
+  \bibinfo{year}{2015}.
+%Type = Misc
+\bibitem[{Tatiana and Jennifer(2019)}]{Bloomberg2019}
+\bibinfo{author}{Tatiana\xfnm[ D.]}, \bibinfo{author}{Jennifer\xfnm[ J.]}.
+\newblock \bibinfo{title}{Trump targets dialysis, kidney transplants in care
+  overhaul}.
+\newblock
+  \bibinfo{howpublished}{\url{https://www.bloomberg.com/news/articles/2019-07-09/dialysis-providers-fall-on-report-trump-is-mulling-an-overhaul}};
+  \bibinfo{year}{2019}.
 
 \end{thebibliography}
